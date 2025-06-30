@@ -16,7 +16,7 @@ A simple and interactive currency converter built with **HTML**, **CSS**, and **
 
 ## 📸 Demo
 
-![Screenshot](Currency-Converter-/blob/main/JS23(CurrenceyConverter)/screenshot.png) 
+![Screenshot](https://github.com/AP2304/Currency-Converter-/blob/main/JS23(CurrenceyConverter)/screenshot.png) 
 
 ---
 
@@ -35,8 +35,4 @@ A simple and interactive currency converter built with **HTML**, **CSS**, and **
 - **CSS** – styling and layout
 - **JavaScript** – dynamic functionality
 - **API** – [fawazahmed0/currency-api](https://github.com/fawazahmed0/currency-api)
-
----
-
-## 📂 Project Structure
 

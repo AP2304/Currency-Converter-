@@ -16,7 +16,7 @@ A simple and interactive currency converter built with **HTML**, **CSS**, and **
 
 ## 📸 Demo
 
-![Screenshot](screenshot.png) 
+![Screenshot](https://github.com/AP2304/Currency-Converter-/blob/main/JS23(CurrenceyConverter)/screenshot.png) 
 
 ---
 

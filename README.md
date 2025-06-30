@@ -16,7 +16,7 @@ A simple and interactive currency converter built with **HTML**, **CSS**, and **
 
 ## 📸 Demo
 
-![Screenshot](screenshot.png) *(Add your own screenshot here!)*
+![Screenshot](screenshot.png) 
 
 ---
 
